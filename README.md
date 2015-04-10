@@ -19,7 +19,7 @@ When you need to modify your phone's firmware, fastboot is the tool you need. Th
 
 ********************************************************************
 
-      ***    ALL YOUR ONEPLUS DEVICE DATA WILL BE WIPED !   ***
+  *** WARNING ALL YOUR ONEPLUS DEVICE DATA WILL BE WIPED !   ***
 
 *********************************************************************
 
