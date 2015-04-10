@@ -1,5 +1,5 @@
 # OnePlusRooting
-flash a recovery onto your oneplus device using TWRP.
+root and flash a recovery onto your oneplus device using TWRP.
 
 *sources
 http://twrp.me/devices/oneplusone.html
@@ -16,9 +16,10 @@ When you need to modify your phone's firmware, fastboot is the tool you need. Th
 
 #Instructions
 
-*********************          WARNING         **********************
 
-              ALL YOUR ONEPLUS DEVICE DATA WILL BE WIPED !
+********************************************************************
+
+      ***    ALL YOUR ONEPLUS DEVICE DATA WILL BE WIPED !   ***
 
 *********************************************************************
 
@@ -26,7 +27,7 @@ When you need to modify your phone's firmware, fastboot is the tool you need. Th
 You can do this on your OnePlus One by holding down the power button and the volume up button.
 When you see the fastboot logo, connect your device to your computer.
 
-2- make sure you backup all your data
+2- Make sure you backup all your data
 
 3- Run the script on your own risk :) depending on your OS
 
